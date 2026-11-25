@@ -1,0 +1,11 @@
+{
+  "name": "g290-office-jokes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry: One-Line Office Jokes — the office printer jams at the worst moment",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
